@@ -1,0 +1,55 @@
+INFO 2022-07-29 14:34:51,258 root  in string class
+INFO 2022-07-29 14:34:51,259 root  Try to extract data from index one to index 300 with a jump of 3
+INFO 2022-07-29 14:34:51,259 root  data from index one to index 300 with a jump of 3 :- h   r tnrrmglsnimeNGyosi dtfco
+INFO 2022-07-29 14:34:51,259 root  Try to reverse a string without using reverse function
+INFO 2022-07-29 14:34:51,259 root  Reverse of string :- noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+INFO 2022-07-29 14:34:51,259 root  try to convert the whole string into lower case
+INFO 2022-07-29 14:34:51,259 root  lower case string :- this is my first python programming class and i am learning python string and its function
+INFO 2022-07-29 14:34:51,260 root  Try to split a string after conversion of entire string in uppercase
+INFO 2022-07-29 14:34:51,260 root  Conversion and split of string in uppercase :- ['THIS', 'IS', 'MY', 'FIRST', 'PYTHON', 'PROGRAMMING', 'CLASS', 'AND', 'I', 'AM', 'LEARNING', 'PYTHON', 'STRING', 'AND', 'ITS', 'FUNCTION']
+INFO 2022-07-29 14:34:51,260 root  Try to capitalize the whole string
+INFO 2022-07-29 14:34:51,260 root  capitalize of string :- This is my first python programming class and i am learning python string and its function
+INFO 2022-07-29 14:34:51,260 root   in list class 
+INFO 2022-07-29 14:34:51,260 root  accessing list function to extract list entity
+INFO 2022-07-29 14:34:51,260 root  list entity extracted 
+INFO 2022-07-29 14:34:51,261 root  accessing list numeric data function
+INFO 2022-07-29 14:34:51,261 root  numeric data extracted
+INFO 2022-07-29 14:34:51,261 root  accessing multiplication of list function
+INFO 2022-07-29 14:34:51,261 root  multiplication done of all list elements
+INFO 2022-07-29 14:34:51,261 root  accessing sum of list numeric data function
+INFO 2022-07-29 14:34:51,261 root  sumation done of all list elements
+INFO 2022-07-29 14:34:51,261 root  inheriting attributes of list class into tuple class
+INFO 2022-07-29 14:34:51,261 root   accessing extract tuple function 
+INFO 2022-07-29 14:34:51,261 root  tuple elements extracted out of whole list
+INFO 2022-07-29 14:34:51,261 root  accessing tuple numeric data function
+INFO 2022-07-29 14:34:51,261 root  tuple numeric data extracted
+INFO 2022-07-29 14:34:51,262 root  accessing multiplication of tuple function
+INFO 2022-07-29 14:34:51,262 root  multiplication of all tuple elements done 
+INFO 2022-07-29 14:34:51,262 root  accessing tuple sum of numeric data function
+INFO 2022-07-29 14:34:51,262 root   summation of tuple numeric data done 
+INFO 2022-07-29 14:34:51,262 root  inheriting tuple class attributes into dict class
+INFO 2022-07-29 14:34:51,262 root  accessing dict extract function
+INFO 2022-07-29 14:34:51,262 root  dict elements extracted
+INFO 2022-07-29 14:34:51,263 root  accessing dict numeric data function
+INFO 2022-07-29 14:34:51,263 root   dict numeric data extracted 
+INFO 2022-07-29 14:34:51,263 root  accessing num of keys function
+INFO 2022-07-29 14:34:51,263 root   number of keys extracted 
+INFO 2022-07-29 14:34:51,263 root  accessing dict multiplication function
+INFO 2022-07-29 14:34:51,263 root   multiplication of dict elements done 
+INFO 2022-07-29 14:34:51,263 root  accessing dict numeric data sum function
+INFO 2022-07-29 14:34:51,263 root   summation of dict numeric elements done 
+INFO 2022-07-29 14:34:51,264 root  inheriting dict class attributes into all data class
+INFO 2022-07-29 14:34:51,264 root  accessing all numeric data function
+INFO 2022-07-29 14:34:51,264 root   all numeric data extracted 
+INFO 2022-07-29 14:34:51,264 root  accessing odd value data function
+INFO 2022-07-29 14:34:51,264 root   odd values extracted out of data 
+INFO 2022-07-29 14:34:51,264 root  accessing ineuron function
+INFO 2022-07-29 14:34:51,264 root  accessing occurences function
+INFO 2022-07-29 14:34:51,264 root  found num of occurences of all elements
+INFO 2022-07-29 14:34:51,264 root  accessing unwrape all data function
+INFO 2022-07-29 14:34:51,265 root  Unrape done list of all the collection of data 
+INFO 2022-07-29 14:34:51,265 root  in pattern class
+INFO 2022-07-29 14:34:51,265 root  accessing pattern1 function
+INFO 2022-07-29 14:34:51,265 root   triangular pattern printed 
+INFO 2022-07-29 14:34:51,265 root  accessing pattern2 function
+INFO 2022-07-29 14:34:51,266 root   Diamond pattern printed
